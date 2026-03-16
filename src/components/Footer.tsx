@@ -9,7 +9,7 @@ const Footer = () => (
         <div>
           <a href="#home" className="flex items-center mb-4">
             <img
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt="Aarohi Skills Academy"
               className="h-10 w-auto object-contain"
             />
