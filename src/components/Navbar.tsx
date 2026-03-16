@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between h-16 px-4">
       <a href="#home" className="flex items-center">
   <img
-    src="src/assets/logo.png"
+    src="public/logo.png"
     alt="Aarohi Skills Academy"
     className="h-10 w-auto object-contain"
   />
